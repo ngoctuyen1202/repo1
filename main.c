@@ -1,3 +1,3 @@
 #include<stdio>
 
-printf("Hello");
+printf("kakak");
